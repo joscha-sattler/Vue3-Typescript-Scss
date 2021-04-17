@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans:wght@400;700&display=swap');
+
+// || Font sizes || ---------------------------------------------------------------------------------------------------------------------------------------- //
+
+// 36px, da 1rem = 10px durch html { font-size: 62.5%;} // Default 1rem = 16px
+
+$font_family: 'Noto Sans', serif;
+
+$title_biggest_font_size: 4.8rem;
+$h1_font_size: 3.6rem;
+$h2_font_size: 2.4rem;
+$h3_font_size: 2rem;
+$normal_text_font_size: 1.6rem;
+$small_text_font_size: 1.4rem;
+$smallest_text_font_size: 1.3rem;
